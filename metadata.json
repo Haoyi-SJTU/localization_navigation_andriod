@@ -1,0 +1,6 @@
+{
+  "name": "Sensor Map",
+  "description": "An offline map viewer and real-time sensor instrument (GPS, barometer, IMU, gyroscope) with track recording capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
